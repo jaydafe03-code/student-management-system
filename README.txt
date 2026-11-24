@@ -1,7 +1,4 @@
 STUDENT MANAGEMENT SYSTEM
-This project manages student records
-features:
--add students
--view students
--update student information
--delete students
+
+A system developed to help schools manage student information efficiently.
+
