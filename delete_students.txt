@@ -1,0 +1,10 @@
+DELETE STUDENT FEATURE
+
+This feature allows administrators to remove student records.
+
+Requirements:
+- Search for a student using matriculation number.
+- Confirm the student's identity.
+- Remove the selected student record.
+- Display a successful deletion message.
+:
